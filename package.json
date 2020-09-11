@@ -1,0 +1,16 @@
+{
+  "name": "js-autoformat",
+  "version": "1.0.0",
+  "description": "Autoformat js project with prettier",
+  "main": "index.js",
+  "scripts": {
+    "start": "./index.js"
+  },
+  "keywords": [],
+  "author": "Pate Bryant <pate4409@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "watch": "^1.0.2"
+  },
+  "bin": "./index.js"
+}
