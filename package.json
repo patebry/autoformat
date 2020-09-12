@@ -16,5 +16,8 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/patebry/js-autoformat.git"
+  },
+  "devDependencies": {
+    "eslint": "^7.8.1"
   }
 }
