@@ -1,6 +1,6 @@
 {
   "name": "js-autoformat",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Autoformat js project with prettier",
   "main": "index.js",
   "scripts": {
